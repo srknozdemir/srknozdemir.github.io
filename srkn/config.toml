@@ -107,7 +107,7 @@ disqusShortname = "yourdiscussshortname"
 
     [languages.pt-br]
         languagename = "Türkçe"
-        title = "Serkan Özdemir"
+        title = "Anasayfa"
 
         [languages.pt-br.params]
             author = "Serkan Özdemir"
