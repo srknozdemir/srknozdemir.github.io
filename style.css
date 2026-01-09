@@ -385,13 +385,15 @@ a {
     font-size: 2rem;
   }
 }
-.iconst-link {
-  font-weight: 700;          /* koyu */
-  color: #111827;            /* koyu gri/siyah */
+.small .iconst-link {
+  font-weight: 700;
+  color: #111827;
 }
 
-.iconst-link:hover {
-  color: #2563eb;            /* hover’da mavi */
+.small .iconst-link:hover {
+  color: #2563eb;
   text-decoration: underline;
+}
+ text-decoration: underline;
 }
 
