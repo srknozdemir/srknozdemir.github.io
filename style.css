@@ -385,15 +385,15 @@ a {
     font-size: 2rem;
   }
 }
-.small .iconst-link {
-  font-weight: 700;
-  color: #111827;
+/* ICONST link – force style */
+.iconst-link {
+  font-weight: 700 !important;
+  color: #111827 !important;
 }
 
-.small .iconst-link:hover {
-  color: #2563eb;
+.iconst-link:hover {
+  color: #2563eb !important;
   text-decoration: underline;
 }
- text-decoration: underline;
-}
+
 
